@@ -1,0 +1,13 @@
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\bin\Debug\netcoreapp3.1\linqInParallel.exe
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\bin\Debug\netcoreapp3.1\linqInParallel.deps.json
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\bin\Debug\netcoreapp3.1\linqInParallel.runtimeconfig.json
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\bin\Debug\netcoreapp3.1\linqInParallel.runtimeconfig.dev.json
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\bin\Debug\netcoreapp3.1\linqInParallel.dll
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\bin\Debug\netcoreapp3.1\linqInParallel.pdb
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\obj\Debug\netcoreapp3.1\linqInParallel.csprojAssemblyReference.cache
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\obj\Debug\netcoreapp3.1\linqInParallel.AssemblyInfoInputs.cache
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\obj\Debug\netcoreapp3.1\linqInParallel.AssemblyInfo.cs
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\obj\Debug\netcoreapp3.1\linqInParallel.csproj.CoreCompileInputs.cache
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\obj\Debug\netcoreapp3.1\linqInParallel.dll
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\obj\Debug\netcoreapp3.1\linqInParallel.pdb
+C:\Users\jlram\Desktop\code\code\chapter12\linqInParallel\obj\Debug\netcoreapp3.1\linqInParallel.genruntimeconfig.cache

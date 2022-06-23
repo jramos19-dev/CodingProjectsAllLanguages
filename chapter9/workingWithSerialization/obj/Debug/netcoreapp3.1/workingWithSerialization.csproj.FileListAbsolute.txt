@@ -1,0 +1,15 @@
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\obj\Debug\netcoreapp3.1\workingWithSerialization.csprojAssemblyReference.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\obj\Debug\netcoreapp3.1\workingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\obj\Debug\netcoreapp3.1\workingWithSerialization.AssemblyInfo.cs
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\obj\Debug\netcoreapp3.1\workingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\bin\Debug\netcoreapp3.1\workingWithSerialization.exe
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\bin\Debug\netcoreapp3.1\workingWithSerialization.deps.json
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\bin\Debug\netcoreapp3.1\workingWithSerialization.runtimeconfig.json
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\bin\Debug\netcoreapp3.1\workingWithSerialization.runtimeconfig.dev.json
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\bin\Debug\netcoreapp3.1\workingWithSerialization.dll
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\bin\Debug\netcoreapp3.1\workingWithSerialization.pdb
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\obj\Debug\netcoreapp3.1\workingWithSerialization.dll
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\obj\Debug\netcoreapp3.1\workingWithSerialization.pdb
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\obj\Debug\netcoreapp3.1\workingWithSerialization.genruntimeconfig.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithSerialization\obj\Debug\netcoreapp3.1\workingWithSerialization.csproj.CopyComplete

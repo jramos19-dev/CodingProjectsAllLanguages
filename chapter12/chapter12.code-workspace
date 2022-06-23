@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "linqWithObjects"
+		},
+		{
+			"path": "workWithSets"
+		},
+		{
+			"path": "linqWithEFCore"
+		},
+		{
+			"path": "linqInParallel"
+		}
+	],
+	"settings": {}
+}

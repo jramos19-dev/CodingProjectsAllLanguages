@@ -1,0 +1,13 @@
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\bin\Debug\netcoreapp3.1\workingWithFileSystems.exe
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\bin\Debug\netcoreapp3.1\workingWithFileSystems.deps.json
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\bin\Debug\netcoreapp3.1\workingWithFileSystems.runtimeconfig.json
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\bin\Debug\netcoreapp3.1\workingWithFileSystems.runtimeconfig.dev.json
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\bin\Debug\netcoreapp3.1\workingWithFileSystems.dll
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\bin\Debug\netcoreapp3.1\workingWithFileSystems.pdb
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\obj\Debug\netcoreapp3.1\workingWithFileSystems.csprojAssemblyReference.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\obj\Debug\netcoreapp3.1\workingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\obj\Debug\netcoreapp3.1\workingWithFileSystems.AssemblyInfo.cs
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\obj\Debug\netcoreapp3.1\workingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\obj\Debug\netcoreapp3.1\workingWithFileSystems.dll
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\obj\Debug\netcoreapp3.1\workingWithFileSystems.pdb
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithFileSystems\obj\Debug\netcoreapp3.1\workingWithFileSystems.genruntimeconfig.cache

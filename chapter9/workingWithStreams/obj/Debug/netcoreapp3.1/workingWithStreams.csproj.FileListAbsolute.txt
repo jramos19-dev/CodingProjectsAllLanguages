@@ -1,0 +1,13 @@
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\bin\Debug\netcoreapp3.1\workingWithStreams.exe
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\bin\Debug\netcoreapp3.1\workingWithStreams.deps.json
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\bin\Debug\netcoreapp3.1\workingWithStreams.runtimeconfig.json
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\bin\Debug\netcoreapp3.1\workingWithStreams.runtimeconfig.dev.json
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\bin\Debug\netcoreapp3.1\workingWithStreams.dll
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\bin\Debug\netcoreapp3.1\workingWithStreams.pdb
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\obj\Debug\netcoreapp3.1\workingWithStreams.csprojAssemblyReference.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\obj\Debug\netcoreapp3.1\workingWithStreams.AssemblyInfoInputs.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\obj\Debug\netcoreapp3.1\workingWithStreams.AssemblyInfo.cs
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\obj\Debug\netcoreapp3.1\workingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\obj\Debug\netcoreapp3.1\workingWithStreams.dll
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\obj\Debug\netcoreapp3.1\workingWithStreams.pdb
+C:\Users\jlram\Desktop\code\C# projects\chapter9\workingWithStreams\obj\Debug\netcoreapp3.1\workingWithStreams.genruntimeconfig.cache

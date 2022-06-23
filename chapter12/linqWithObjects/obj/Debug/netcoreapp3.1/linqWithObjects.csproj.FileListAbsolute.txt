@@ -1,0 +1,13 @@
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\bin\Debug\netcoreapp3.1\linqWithObjects.exe
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\bin\Debug\netcoreapp3.1\linqWithObjects.deps.json
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\bin\Debug\netcoreapp3.1\linqWithObjects.runtimeconfig.json
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\bin\Debug\netcoreapp3.1\linqWithObjects.runtimeconfig.dev.json
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\bin\Debug\netcoreapp3.1\linqWithObjects.dll
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\bin\Debug\netcoreapp3.1\linqWithObjects.pdb
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\obj\Debug\netcoreapp3.1\linqWithObjects.csprojAssemblyReference.cache
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\obj\Debug\netcoreapp3.1\linqWithObjects.AssemblyInfoInputs.cache
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\obj\Debug\netcoreapp3.1\linqWithObjects.AssemblyInfo.cs
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\obj\Debug\netcoreapp3.1\linqWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\obj\Debug\netcoreapp3.1\linqWithObjects.dll
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\obj\Debug\netcoreapp3.1\linqWithObjects.pdb
+C:\Users\jlram\Desktop\code\code\chapter12\linqWithObjects\obj\Debug\netcoreapp3.1\linqWithObjects.genruntimeconfig.cache

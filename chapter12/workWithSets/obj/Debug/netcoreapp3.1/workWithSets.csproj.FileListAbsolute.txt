@@ -1,0 +1,13 @@
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\obj\Debug\netcoreapp3.1\workWithSets.csprojAssemblyReference.cache
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\obj\Debug\netcoreapp3.1\workWithSets.AssemblyInfoInputs.cache
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\obj\Debug\netcoreapp3.1\workWithSets.AssemblyInfo.cs
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\obj\Debug\netcoreapp3.1\workWithSets.csproj.CoreCompileInputs.cache
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\bin\Debug\netcoreapp3.1\workWithSets.exe
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\bin\Debug\netcoreapp3.1\workWithSets.deps.json
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\bin\Debug\netcoreapp3.1\workWithSets.runtimeconfig.json
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\bin\Debug\netcoreapp3.1\workWithSets.runtimeconfig.dev.json
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\bin\Debug\netcoreapp3.1\workWithSets.dll
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\bin\Debug\netcoreapp3.1\workWithSets.pdb
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\obj\Debug\netcoreapp3.1\workWithSets.dll
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\obj\Debug\netcoreapp3.1\workWithSets.pdb
+C:\Users\jlram\Desktop\code\code\chapter12\workWithSets\obj\Debug\netcoreapp3.1\workWithSets.genruntimeconfig.cache
