@@ -1,0 +1,13 @@
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\bin\Debug\netcoreapp3.1\workingWithRanges.exe
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\bin\Debug\netcoreapp3.1\workingWithRanges.deps.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\bin\Debug\netcoreapp3.1\workingWithRanges.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\bin\Debug\netcoreapp3.1\workingWithRanges.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\bin\Debug\netcoreapp3.1\workingWithRanges.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\bin\Debug\netcoreapp3.1\workingWithRanges.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\obj\Debug\netcoreapp3.1\workingWithRanges.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\obj\Debug\netcoreapp3.1\workingWithRanges.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\obj\Debug\netcoreapp3.1\workingWithRanges.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\obj\Debug\netcoreapp3.1\workingWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\obj\Debug\netcoreapp3.1\workingWithRanges.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\obj\Debug\netcoreapp3.1\workingWithRanges.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithRanges\obj\Debug\netcoreapp3.1\workingWithRanges.genruntimeconfig.cache

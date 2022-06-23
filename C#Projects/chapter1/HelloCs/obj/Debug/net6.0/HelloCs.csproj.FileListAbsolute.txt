@@ -1,0 +1,15 @@
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\bin\Debug\net6.0\HelloCs.exe
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\bin\Debug\net6.0\HelloCs.deps.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\bin\Debug\net6.0\HelloCs.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\bin\Debug\net6.0\HelloCs.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\bin\Debug\net6.0\HelloCs.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\HelloCs.csproj.AssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\HelloCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\HelloCs.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\HelloCs.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\HelloCs.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\HelloCs.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\refint\HelloCs.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\HelloCs.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\HelloCs.genruntimeconfig.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter1\HelloCs\obj\Debug\net6.0\ref\HelloCs.dll

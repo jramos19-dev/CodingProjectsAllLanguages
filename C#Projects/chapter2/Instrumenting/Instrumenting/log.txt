@@ -1,0 +1,2 @@
+Debug says, Iam watching!
+Trace says, I am watching

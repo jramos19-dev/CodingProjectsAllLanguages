@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Packt.cs8.Jorge</PackageId>
+    <PackageVersion>1.0.0.0</PackageVersion>
+    <Authors>Jorge L. Ramos</Authors>
+    <PackageLicenseExpression>
+    MS-PL 
+    </PackageLicenseExpression>
+    <PackageProjectUrl>
+    http://github.com/markjprice/cs8dotnetcore3
+    </PackageProjectUrl>
+    <PackageIcon>packt-cs8-sharedlibrary.png</PackageIcon>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>
+    Example shared library packaged for Nuget.
+    </PackageReleaseNotes>
+    <Description>
+    Three extension methods to validate a string value.
+     </Description>
+    <Copyright>
+      Copyright 2019 packet publishing limited
+     </Copyright>
+    <PackageTags>string extension packt cs8 </PackageTags>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include= "packt-cs8-sharedlibrary.png">
+      <Pack>True</Pack>
+      <PackagePath> </PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

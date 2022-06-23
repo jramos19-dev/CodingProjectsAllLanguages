@@ -1,0 +1,13 @@
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\obj\Debug\netcoreapp3.1\workingWithLists.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\obj\Debug\netcoreapp3.1\workingWithLists.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\obj\Debug\netcoreapp3.1\workingWithLists.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\obj\Debug\netcoreapp3.1\workingWithLists.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\bin\Debug\netcoreapp3.1\workingWithLists.exe
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\bin\Debug\netcoreapp3.1\workingWithLists.deps.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\bin\Debug\netcoreapp3.1\workingWithLists.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\bin\Debug\netcoreapp3.1\workingWithLists.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\bin\Debug\netcoreapp3.1\workingWithLists.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\bin\Debug\netcoreapp3.1\workingWithLists.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\obj\Debug\netcoreapp3.1\workingWithLists.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\obj\Debug\netcoreapp3.1\workingWithLists.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithLists\obj\Debug\netcoreapp3.1\workingWithLists.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\obj\Debug\netcoreapp3.1\workingWithNetwork.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\obj\Debug\netcoreapp3.1\workingWithNetwork.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\obj\Debug\netcoreapp3.1\workingWithNetwork.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\obj\Debug\netcoreapp3.1\workingWithNetwork.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\bin\Debug\netcoreapp3.1\workingWithNetwork.exe
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\bin\Debug\netcoreapp3.1\workingWithNetwork.deps.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\bin\Debug\netcoreapp3.1\workingWithNetwork.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\bin\Debug\netcoreapp3.1\workingWithNetwork.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\bin\Debug\netcoreapp3.1\workingWithNetwork.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\bin\Debug\netcoreapp3.1\workingWithNetwork.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\obj\Debug\netcoreapp3.1\workingWithNetwork.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\obj\Debug\netcoreapp3.1\workingWithNetwork.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNetwork\obj\Debug\netcoreapp3.1\workingWithNetwork.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\obj\Debug\netcoreapp3.1\workingWithReflection.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\obj\Debug\netcoreapp3.1\workingWithReflection.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\obj\Debug\netcoreapp3.1\workingWithReflection.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\obj\Debug\netcoreapp3.1\workingWithReflection.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\bin\Debug\netcoreapp3.1\workingWithReflection.exe
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\bin\Debug\netcoreapp3.1\workingWithReflection.deps.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\bin\Debug\netcoreapp3.1\workingWithReflection.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\bin\Debug\netcoreapp3.1\workingWithReflection.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\bin\Debug\netcoreapp3.1\workingWithReflection.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\bin\Debug\netcoreapp3.1\workingWithReflection.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\obj\Debug\netcoreapp3.1\workingWithReflection.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\obj\Debug\netcoreapp3.1\workingWithReflection.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithReflection\obj\Debug\netcoreapp3.1\workingWithReflection.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "🔍Decompiler!",
+      "uri": "decompileFs:/"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "Assemblies and Namespaces"
+    },
+    {
+      "path": "SharedLibrary"
+    },
+    {
+      "path": "DotNetCoreEverywhere"
+    }
+  ],
+  "settings": {}
+}

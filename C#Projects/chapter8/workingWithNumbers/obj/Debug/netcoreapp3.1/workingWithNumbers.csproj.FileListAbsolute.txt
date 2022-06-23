@@ -1,0 +1,13 @@
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.exe
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.deps.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\bin\Debug\netcoreapp3.1\workingWithNumbers.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithNumbers\obj\Debug\netcoreapp3.1\workingWithNumbers.genruntimeconfig.cache

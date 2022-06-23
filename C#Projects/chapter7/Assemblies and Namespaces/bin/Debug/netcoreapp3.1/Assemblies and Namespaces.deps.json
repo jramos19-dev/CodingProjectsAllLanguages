@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assemblies and Namespaces/1.0.0": {
+        "dependencies": {
+          "Packt.cs8.Jorge": "1.0.0",
+          "DialectSoftware.Collections.Matrix": "1.0.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "Assemblies and Namespaces.dll": {}
+        }
+      },
+      "DialectSoftware.Collections.Matrix/1.0.0": {
+        "runtime": {
+          "lib/DialectSoftware.Collections.Matrix.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Packt.cs8.Jorge/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SharedLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assemblies and Namespaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DialectSoftware.Collections.Matrix/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O0//+wnBGhEn+dMj60Cfg0DhlR/IrCFvCI4Bqau5ygQVOnxApV5O2NqRQtCYNUVERW+VrNmGiYZHsU/zrV8eSQ==",
+      "path": "dialectsoftware.collections.matrix/1.0.0",
+      "hashPath": "dialectsoftware.collections.matrix.1.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Packt.cs8.Jorge/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rUUhU8ZqdkWMpRQmp7DSab7O56OH7fjhzvpIaKA1rERgt+hmsv+AuT3lW7GVoDic2xAXbjPXK8PZaJWmleDrdQ==",
+      "path": "packt.cs8.jorge/1.0.0",
+      "hashPath": "packt.cs8.jorge.1.0.0.nupkg.sha512"
+    }
+  }
+}

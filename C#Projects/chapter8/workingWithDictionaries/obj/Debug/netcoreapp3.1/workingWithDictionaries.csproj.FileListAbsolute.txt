@@ -1,0 +1,13 @@
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\bin\Debug\netcoreapp3.1\workingWithDictionaries.exe
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\bin\Debug\netcoreapp3.1\workingWithDictionaries.deps.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\bin\Debug\netcoreapp3.1\workingWithDictionaries.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\bin\Debug\netcoreapp3.1\workingWithDictionaries.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\bin\Debug\netcoreapp3.1\workingWithDictionaries.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\bin\Debug\netcoreapp3.1\workingWithDictionaries.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\obj\Debug\netcoreapp3.1\workingWithDictionaries.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\obj\Debug\netcoreapp3.1\workingWithDictionaries.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\obj\Debug\netcoreapp3.1\workingWithDictionaries.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\obj\Debug\netcoreapp3.1\workingWithDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\obj\Debug\netcoreapp3.1\workingWithDictionaries.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\obj\Debug\netcoreapp3.1\workingWithDictionaries.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithDictionaries\obj\Debug\netcoreapp3.1\workingWithDictionaries.genruntimeconfig.cache

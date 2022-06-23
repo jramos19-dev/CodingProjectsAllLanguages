@@ -1,0 +1,13 @@
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\bin\Debug\netcoreapp3.1\workingWithText.exe
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\bin\Debug\netcoreapp3.1\workingWithText.deps.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\bin\Debug\netcoreapp3.1\workingWithText.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\bin\Debug\netcoreapp3.1\workingWithText.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\bin\Debug\netcoreapp3.1\workingWithText.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\bin\Debug\netcoreapp3.1\workingWithText.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\obj\Debug\netcoreapp3.1\workingWithText.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\obj\Debug\netcoreapp3.1\workingWithText.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\obj\Debug\netcoreapp3.1\workingWithText.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\obj\Debug\netcoreapp3.1\workingWithText.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\obj\Debug\netcoreapp3.1\workingWithText.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\obj\Debug\netcoreapp3.1\workingWithText.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter8\workingWithText\obj\Debug\netcoreapp3.1\workingWithText.genruntimeconfig.cache

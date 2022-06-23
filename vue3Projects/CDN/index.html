@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Washing App</title>
+    <style>
+        .box{
+            background-color: green;
+            height:200px;
+            width:200px;
+        
+        }
+        .box2{
+            background-color: indigo;
+             height:200px;
+             width:200px;
+        }
+        .rectangle{
+            background-color: khaki;
+            height: 40px; 
+            width: 300px;
+        }
+        #app{
+        }
+        body{
+         
+        }
+        input{
+            margin:10px;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div id="app" v-cloak>
+        <custom-form />
+
+         {{greeting}}
+        <input @keyup.enter="greet" type="text" v-model="greeting">
+
+        <hr/>
+        <button @click="toggleBox"> show box </button>
+        <div v-if="isVisable"class="box"></div>
+        <div v-if="isVisable2" class="rectangle">{{secretGreeting}}</div>
+    </div>
+    <script src="https://unpkg.com/vue@next"></script>
+
+    <script>
+        let app = Vue.createApp({
+            data: function() {
+                return {
+                    greeting: 'Hello vue 3!',
+                    isVisable: true,
+                    isVisable2: true,
+                    secretGreeting: 'HELLO YOU '
+                    
+                }
+            },
+            methods:{
+                toggleBox(){
+                    this.isVisable= !this.isVisable
+
+                },
+                greet(){
+                    this.isVisable2= !this.isVisable2
+                }
+            }
+
+        })
+        app.component('custom-form', {
+            template: `
+            <form @submit.prevent="handleSubmit">
+                <h1>{{title}} </h1>
+                <custom-input type="email" v-model="email" label="passLabel" />
+                <custom-input type="password" v-model="password" label="emailLabel" :sentence="sentence"/>
+                 <button>Log In</button>
+                </form>            
+            `,
+            components:['custom-input'],
+            data(){
+                return{
+                    title: 'Washing App Login ',
+                    email: 'asdfas',
+                    password: 'asdfas',
+                    emailLabel: 'Email dud3',
+                    passLabel: 'Password dude',
+                    sentence: 'dude this is sick'
+                }
+            },
+            methods:{
+                handleSubmit(){
+                    console.log('submitted the request')
+                    console.log(`${this.email} is the email `)
+                    console.log(`${this.password} is the password`)
+                }
+            }
+        })
+        app.component('custom-input', {
+            template:`
+            <label>
+                {{label}}
+                <input type="text" v-model="inputValue"> </input>
+            </label>
+            <p>{{sentence}}</p>
+            
+            `,
+            props: ['label','sentence',model],
+            computed:{
+                inputValue: {
+                    get(){
+                        return this.modelValue
+                    },
+                    set(){
+
+                    }
+                }
+            },
+            data(){
+                return{
+                    inputValue:''
+                }
+            }
+        })
+
+
+        app.mount("#app")
+    </script>
+</body>
+</html>

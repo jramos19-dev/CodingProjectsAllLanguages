@@ -1,0 +1,17 @@
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\bin\Debug\netcoreapp3.1\Assemblies and Namespaces.exe
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\bin\Debug\netcoreapp3.1\Assemblies and Namespaces.deps.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\bin\Debug\netcoreapp3.1\Assemblies and Namespaces.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\bin\Debug\netcoreapp3.1\Assemblies and Namespaces.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\bin\Debug\netcoreapp3.1\Assemblies and Namespaces.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\bin\Debug\netcoreapp3.1\Assemblies and Namespaces.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\bin\Debug\netcoreapp3.1\SharedLibrary.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\obj\Debug\netcoreapp3.1\Assemblies and Namespaces.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\obj\Debug\netcoreapp3.1\Assemblies and Namespaces.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\obj\Debug\netcoreapp3.1\Assemblies and Namespaces.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\obj\Debug\netcoreapp3.1\Assemblies and Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\obj\Debug\netcoreapp3.1\Assemblies and Namespaces.csproj.CopyComplete
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\obj\Debug\netcoreapp3.1\Assemblies and Namespaces.dll
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\obj\Debug\netcoreapp3.1\Assemblies and Namespaces.pdb
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\obj\Debug\netcoreapp3.1\Assemblies and Namespaces.genruntimeconfig.cache
+C:\Users\jlram\OneDrive\Desktop\C#Projects\chapter7\Assemblies and Namespaces\bin\Debug\netcoreapp3.1\DialectSoftware.Collections.Matrix.dll
