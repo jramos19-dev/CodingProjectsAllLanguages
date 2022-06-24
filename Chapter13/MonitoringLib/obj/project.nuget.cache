@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNsTDzJXQH5uf7S9aX9TZwaBghR6L7fysxEjj3mGHkQa/kdNTAWAXU9Zirr7ZgAroCpoNHHuki7Es0344PtH4Q==",
+  "dgSpecHash": "td7ljOA7XAtY57gsd8Qxl5/oso35THDaitXcXS6KVbgX9c9TW6dPxTjejUGHzSOnMmXIvh3dAMYpARrmVWNDPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jlram\\Desktop\\code\\code\\Chapter13\\MonitoringLib\\MonitoringLib.csproj",
+  "projectFilePath": "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\Chapter13\\MonitoringLib\\MonitoringLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jlram\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jlram\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

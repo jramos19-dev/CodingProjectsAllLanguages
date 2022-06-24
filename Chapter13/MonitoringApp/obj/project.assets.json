@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jlram\\Desktop\\code\\code\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
+      "projectUniqueName": "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
       "projectName": "MonitoringApp",
-      "projectPath": "C:\\Users\\jlram\\Desktop\\code\\code\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
+      "projectPath": "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\Chapter13\\MonitoringApp\\MonitoringApp.csproj",
       "packagesPath": "C:\\Users\\jlram\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jlram\\Desktop\\code\\code\\Chapter13\\MonitoringApp\\obj\\",
+      "outputPath": "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\Chapter13\\MonitoringApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\jlram\\Desktop\\code\\code\\Chapter13\\MonitoringLib\\MonitoringLib.csproj": {
-              "projectPath": "C:\\Users\\jlram\\Desktop\\code\\code\\Chapter13\\MonitoringLib\\MonitoringLib.csproj"
+            "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\Chapter13\\MonitoringLib\\MonitoringLib.csproj": {
+              "projectPath": "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\Chapter13\\MonitoringLib\\MonitoringLib.csproj"
             }
           }
         }
@@ -86,7 +86,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.419\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.420\\RuntimeIdentifierGraph.json"
       }
     }
   }
