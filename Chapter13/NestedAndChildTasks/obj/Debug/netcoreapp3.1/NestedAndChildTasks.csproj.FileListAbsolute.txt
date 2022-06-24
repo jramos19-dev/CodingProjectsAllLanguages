@@ -1,0 +1,13 @@
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.exe
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.deps.json
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.genruntimeconfig.cache

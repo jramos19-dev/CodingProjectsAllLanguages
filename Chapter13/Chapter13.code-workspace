@@ -11,6 +11,15 @@
 		},
 		{
 			"path": "WorkingWithTasks"
+		},
+		{
+			"path": "NestedAndChildTasks"
+		},
+		{
+			"path": "SynchronizingResourcesAccess"
+		},
+		{
+			"path": "AsyncConsole"
 		}
 	],
 	"settings": {}

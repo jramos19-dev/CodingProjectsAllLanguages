@@ -20,7 +20,11 @@ namespace WorkingWithTasks
         static string CallStoredProcedure(decimal amount)
         {
             WriteLine("Starting call to stored procedure...");
-            Thread.Sleep();
+            //random number between the next range in milliseconds
+            Thread.Sleep((new Random()).Next(2000, 4000));
+            WriteLine("Finished call to stored procedure.");
+            return $"12 producs comst more than {amount:C}";
+
         }
 
         static void MethodA()
@@ -55,22 +59,29 @@ namespace WorkingWithTasks
 
             //now we will call the methods using different tasks and wrapping a thread in a new task so that it is easier to implement.
             //3 different ways to get the task running and created.
-            WriteLine("running methods assynchronously on multiple threads.");
-            Task taskA = new Task(MethodA);
-            taskA.Start();
-            Task taskB = Task.Factory.StartNew(MethodB);
+            // WriteLine("running methods assynchronously on multiple threads.");
+            // Task taskA = new Task(MethodA);
+            // taskA.Start();
+            // Task taskB = Task.Factory.StartNew(MethodB);
             // // because the methods dont return a value then we can use the variable type Action.
             // // if we needed to return a value then we could use the Function type. Func
-            Task taskC = Task.Run(new Action(MethodC));
+            // Task taskC = Task.Run(new Action(MethodC));
 
             //created an array of type task and put our 3 tasks in ther eand then waited on all of them to finish. 
-            Task[] tasks = { taskA, taskB, taskC };
-            Task.WaitAll(tasks);
+            // Task[] tasks = { taskA, taskB, taskC };
+            // Task.WaitAll(tasks);
 
 
             // it is the cpu that allocates time slices to each process to allow them to execute their therads , you have no control over when the methods run. 
 
+            // simulating a different structure that waits for response from one method to run the second
 
+            WriteLine("Passing the result of one task as an input into another");
+            var taskCallWebServiceAndThenStoredProcedure = Task.Factory.StartNew(CallWebService)
+            .ContinueWith(previousTask => CallStoredProcedure(previousTask.Result));
+
+            WriteLine($"Result : {taskCallWebServiceAndThenStoredProcedure.Result}");
+            
             WriteLine($"{timer.ElapsedMilliseconds:#,##0}ms Elapsed");
 
 

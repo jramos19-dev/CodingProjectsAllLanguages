@@ -1,0 +1,13 @@
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\bin\Debug\netcoreapp3.1\SynchronizingResourcesAccess.exe
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\bin\Debug\netcoreapp3.1\SynchronizingResourcesAccess.deps.json
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\bin\Debug\netcoreapp3.1\SynchronizingResourcesAccess.runtimeconfig.json
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\bin\Debug\netcoreapp3.1\SynchronizingResourcesAccess.runtimeconfig.dev.json
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\bin\Debug\netcoreapp3.1\SynchronizingResourcesAccess.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\bin\Debug\netcoreapp3.1\SynchronizingResourcesAccess.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\obj\Debug\netcoreapp3.1\SynchronizingResourcesAccess.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\obj\Debug\netcoreapp3.1\SynchronizingResourcesAccess.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\obj\Debug\netcoreapp3.1\SynchronizingResourcesAccess.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\obj\Debug\netcoreapp3.1\SynchronizingResourcesAccess.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\obj\Debug\netcoreapp3.1\SynchronizingResourcesAccess.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\obj\Debug\netcoreapp3.1\SynchronizingResourcesAccess.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\Chapter13\SynchronizingResourcesAccess\obj\Debug\netcoreapp3.1\SynchronizingResourcesAccess.genruntimeconfig.cache
