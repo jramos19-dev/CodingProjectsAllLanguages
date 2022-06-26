@@ -1,6 +1,5 @@
 
 
-using NorthwindEntitiesLib;
 
 namespace Packt.Shared
 {

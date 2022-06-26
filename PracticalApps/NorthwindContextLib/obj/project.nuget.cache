@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SCnRy604+6jRPO9w9bGQlFpPZd4R5p6jZOVb77jw/7cvmh3e9h4140kfqumMzx6Nd4069fOMZveSQzTl4bIPA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.0\\microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.0.0\\microsoft.entityframeworkcore.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.0.0\\microsoft.entityframeworkcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.0.0\\microsoft.entityframeworkcore.relational.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\3.0.0\\microsoft.entityframeworkcore.sqlite.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\3.0.0\\microsoft.entityframeworkcore.sqlite.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.0.0\\microsoft.extensions.caching.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.0.0\\microsoft.extensions.caching.memory.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.0\\microsoft.extensions.configuration.binder.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.0.0\\microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.logging\\3.0.0\\microsoft.extensions.logging.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.0\\sqlitepclraw.bundle_e_sqlite3.2.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\sqlitepclraw.core\\2.0.0\\sqlitepclraw.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.0\\sqlitepclraw.lib.e_sqlite3.2.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.0\\sqlitepclraw.provider.e_sqlite3.2.0.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.collections.immutable\\1.6.0\\system.collections.immutable.1.6.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\jlram\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency ..\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "..\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package ..\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "..\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}

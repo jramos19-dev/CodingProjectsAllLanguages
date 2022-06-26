@@ -1,0 +1,9 @@
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
