@@ -5,10 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-
-  <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.0.0" />
- 
-
- </ItemGroup>
+    <ProjectReference Include=
+      "..\NorthwindEntitiesLib\NorthwindEntitiesLib.csproj" />
+    <PackageReference
+      Include="Microsoft.EntityFrameworkCore.SQLite" 
+      Version="3.1.0" />
+  </ItemGroup>
 
 </Project>

@@ -4,10 +4,13 @@
       "path": "."
     },
     {
+      "path": "NorthwindEntitiesLib"
+    },
+    {
       "path": "NorthwindContextLib"
     },
     {
-      "path": "NorthwindEntitiesLib"
+      "path": "NorthwindWeb"
     }
   ],
   "settings": {}

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Packt.Shared;
 
-namespace Packet.Shared
+namespace Packt.Shared
 {
     public class Shipper
     {
