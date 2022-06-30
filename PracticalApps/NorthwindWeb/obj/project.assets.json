@@ -420,6 +420,22 @@
           "bin/placeholder/NorthwindContextLib.dll": {}
         }
       },
+      "NorthwindEmployees/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NorthwindContextLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NorthwindEmployees.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthwindEmployees.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "NorthwindEntitiesLib/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
@@ -1053,6 +1069,11 @@
       "path": "../NorthwindContextLib/NorthwindContextLib.csproj",
       "msbuildProject": "../NorthwindContextLib/NorthwindContextLib.csproj"
     },
+    "NorthwindEmployees/1.0.0": {
+      "type": "project",
+      "path": "../NorthwindEmployees/NorthwindEmployees.csproj",
+      "msbuildProject": "../NorthwindEmployees/NorthwindEmployees.csproj"
+    },
     "NorthwindEntitiesLib/1.0.0": {
       "type": "project",
       "path": "../NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
@@ -1061,7 +1082,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "NorthwindContextLib >= 1.0.0"
+      "NorthwindContextLib >= 1.0.0",
+      "NorthwindEmployees >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1097,6 +1119,9 @@
           "projectReferences": {
             "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
               "projectPath": "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
+            },
+            "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj": {
+              "projectPath": "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj"
             }
           }
         }

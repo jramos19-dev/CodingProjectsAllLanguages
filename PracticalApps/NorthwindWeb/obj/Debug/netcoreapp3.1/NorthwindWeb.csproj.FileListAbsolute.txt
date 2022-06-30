@@ -61,3 +61,9 @@ C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\Northwi
 C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
 C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindContextLib.pdb
 C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindEmployees.Views.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindEmployees.Views.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindEmployees.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindEmployees.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindWeb\obj\Debug\netcoreapp3.1\Razor\Pages\customers.cshtml.g.cs
