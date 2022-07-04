@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using NorthwindMvc.Models;
 using Packt.Shared;
+// we add microsoft.entityframework core so that we can include related entities ;
+using Microsoft.EntityFrameworkCore;
 
 namespace NorthwindMvc.Controllers
 {
@@ -97,6 +99,26 @@ namespace NorthwindMvc.Controllers
 
             return View(model);
 
+        }
+
+        public IActionResult ProductsThatCostMoreThan(decimal? price)
+        {
+            if (!price.HasValue)
+            {
+                return NotFound("You must pass a product price in the query string, for example /home/productsThatCostMorethan?price=50");
+
+            }
+            IEnumerable<Product> model = db.Products
+                .Include(p => p.Category)
+                .Include(p => p.Supplier)
+                .AsEnumerable() //switch to client-side
+                .Where(p => p.UnitPrice > price);
+            if (model.Count() == 0)
+            {
+                return NotFound($"No Producs cost more than {price:C}");
+            }
+            ViewData["MaxPrice"] = price.Value.ToString("C");
+            return View(model); // pass model to view 
         }
 
 

@@ -100,3 +100,4 @@ C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\Northwi
 C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
 C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductDetail.cshtml.g.cs
 C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ModelBinding.cshtml.g.cs
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductsThatCostMoreThan.cshtml.g.cs

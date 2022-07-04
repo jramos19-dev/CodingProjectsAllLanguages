@@ -66,6 +66,12 @@
         <p class="lead">
             We have @Model.VisitorCount visitors this month
         </p>
+        <form asp-action="ProductsThatCostMoreThan" method="get">
+            <input name="price" placeholder="Enter a product price"/>
+            <input type="submit"/>
+        </form>
+
+
         <h2>Products</h2>
 
         @*The class newspaper was created inside the css and is used to style it in 3 columns*@
