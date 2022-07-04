@@ -69,3 +69,8 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+/*style to display 3 colums to display our products */
+#newspaper{
+  column-count: 3;
+}

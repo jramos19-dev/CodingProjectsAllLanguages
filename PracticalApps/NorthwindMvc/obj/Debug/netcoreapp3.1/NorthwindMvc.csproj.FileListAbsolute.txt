@@ -94,3 +94,9 @@ C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\Northwi
 C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\NorthwindMvc.dll
 C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\NorthwindMvc.pdb
 C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\NorthwindMvc.genruntimeconfig.cache
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\NorthwindContextLib.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\NorthwindContextLib.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductDetail.cshtml.g.cs
+C:\Users\jlram\OneDrive\Desktop\CodingProjectsAllLanguages\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ModelBinding.cshtml.g.cs

@@ -29,6 +29,7 @@
           "Microsoft.AspNetCore.Identity.UI": "3.1.26",
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.26",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.26",
+          "NorthwindContextLib": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -922,6 +923,26 @@
         },
         "compile": {
           "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        }
+      },
+      "NorthwindContextLib/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Sqlite": "3.1.26",
+          "NorthwindEntitiesLib": "1.0.0"
+        },
+        "runtime": {
+          "NorthwindContextLib.dll": {}
+        },
+        "compile": {
+          "NorthwindContextLib.dll": {}
+        }
+      },
+      "NorthwindEntitiesLib/1.0.0": {
+        "runtime": {
+          "NorthwindEntitiesLib.dll": {}
+        },
+        "compile": {
+          "NorthwindEntitiesLib.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2812,6 +2833,16 @@
       "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
       "path": "system.text.json/4.7.2",
       "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    },
+    "NorthwindContextLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthwindEntitiesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

@@ -601,6 +601,30 @@
         "runtime": {
           "lib/netcoreapp3.0/System.Text.Json.dll": {}
         }
+      },
+      "NorthwindContextLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SQLite": "3.1.0",
+          "NorthwindEntitiesLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NorthwindContextLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthwindContextLib.dll": {}
+        }
+      },
+      "NorthwindEntitiesLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/NorthwindEntitiesLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthwindEntitiesLib.dll": {}
+        }
       }
     }
   },
@@ -1621,6 +1645,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "NorthwindContextLib/1.0.0": {
+      "type": "project",
+      "path": "../NorthwindContextLib/NorthwindContextLib.csproj",
+      "msbuildProject": "../NorthwindContextLib/NorthwindContextLib.csproj"
+    },
+    "NorthwindEntitiesLib/1.0.0": {
+      "type": "project",
+      "path": "../NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
+      "msbuildProject": "../NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1629,7 +1663,8 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.26",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.26",
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.1.26",
-      "Microsoft.EntityFrameworkCore.Tools >= 3.1.26"
+      "Microsoft.EntityFrameworkCore.Tools >= 3.1.26",
+      "NorthwindContextLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1662,7 +1697,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
+              "projectPath": "C:\\Users\\jlram\\OneDrive\\Desktop\\CodingProjectsAllLanguages\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
