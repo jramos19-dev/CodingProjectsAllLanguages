@@ -9,6 +9,9 @@ using NorthwindMvc.Models;
 using Packt.Shared;
 // we add microsoft.entityframework core so that we can include related entities ;
 using Microsoft.EntityFrameworkCore;
+using NorthwindMvc.Controllers;
+//import this to start using multiple threads. 
+
 
 namespace NorthwindMvc.Controllers
 {
@@ -29,14 +32,16 @@ namespace NorthwindMvc.Controllers
 
         }
 
-        public IActionResult Index()
+        //added the async keyword and made it to return a task of type IactionResult
+        public async Task<IActionResult> Index()
         {
             //creates a model simulating a visitor count and using northwind database to get list of categories and products. 
             var model = new HomeIndexViewModel
             {
                 VisitorCount = (new Random()).Next(1, 100),
-                Categories = db.Categories.ToList(),
-                Products = db.Products.ToList()
+                //added the await keywoard and changed the tolist() method to a tolistasync()
+                Categories = await db.Categories.ToListAsync(),
+                Products = await db.Products.ToListAsync()
 
             };
 
@@ -56,7 +61,7 @@ namespace NorthwindMvc.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        public IActionResult ProductDetail(int? id)
+        public async Task<IActionResult> ProductDetail(int? id)
         {
             if (!id.HasValue)
             {
@@ -64,7 +69,7 @@ namespace NorthwindMvc.Controllers
             }
             //this feature is called model binding because it passes in an id  in the route and it compares it the the products and returns the one that has the id. 
 
-            var model = db.Products.SingleOrDefault(p => p.ProductID == id);
+            var model = await db.Products.SingleOrDefaultAsync(p => p.ProductID == id);
 
             if (model == null)
             {
